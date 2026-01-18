@@ -24,7 +24,7 @@ You are required to model the price of houses with the available independent var
 
 **Downloads**
 
-Refer to the Dataset folder for data.
+Refer to the train.csv for inital file of the first set of raw data that was provided for analysis.
 
 **Data Definition**
 
